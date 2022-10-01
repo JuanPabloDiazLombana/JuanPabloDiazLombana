@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**JuanPabloDiazLombana/JuanPabloDiazLombana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello there
+I am Juan Pablo Diaz Lombana
+I am currenly a student of **Universidad del Valle** in Colombia.
+I love giving instruction to a computer and to see those instructions reflected on the hardware.
+All my programming skills come mainly from self teaching by reading forums and watching videos.
+The languages i can understand and speak Spanish, English and Japanese.
+## What I program on
+- Python 3
+- Java
+- A little of C++ (I am still learning)
+- HTML
+- PHP
